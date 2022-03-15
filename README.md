@@ -1,3 +1,3 @@
 # CodeChef
 
-Collection of CodeChef problems in **python**
+Collection of CodeChef problems solutions written in **python**
