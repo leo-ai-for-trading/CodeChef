@@ -1,11 +1,11 @@
-\*
-- most significant bit
+
+\*- most significant bit
 - the xor of two same number will be = 0
 - the most significant bit decides what is greater or smaller
 - comparing two number the one with most significant bit is the 1 that you find first in the two numbers
   10101 -> the 1 is the most significant because it is the first and the second number contains 0 first
-  01010
-*\
+  01010*\
+
 
 #include <iostream>
 #include<bits/stdc++.h>
