@@ -13,7 +13,7 @@ for _ in range(t):
     b = list(map(int,sys.stdin.readline().split()))
     freq = dict()
     for i in range(0,n):
-        if a[i]^b[i] in freq.keys()):
+        if a[i]^b[i] in freq.keys():
             freq[a[i]^b[i]]+=1
         else:
             freq[a[i]^b[i]]=1
